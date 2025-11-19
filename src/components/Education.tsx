@@ -10,7 +10,7 @@ const Education: React.FC = () => {
       location: "Bangalore, India",
       degree: "B.E. in Electronics and Instrumentation Engineering",
       period: "2021 - 2025",
-      gpa: "CGPA: 8.67",
+      gpa: "CGPA: 8.90",
       details: "Focused on core electronics, embedded systems, and signal processing."
     },
     {

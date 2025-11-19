@@ -17,7 +17,7 @@ const About: React.FC = () => {
     },
     {
       icon: <Cpu size={24} className="text-emerald-500" />,
-      title: "Hardware Expert",
+      title: "Hardware knowledge",
       description: "Proficient in electronics, circuit design, and embedded systems development."
     },
     {

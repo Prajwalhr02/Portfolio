@@ -10,10 +10,10 @@ const Skills: React.FC = () => {
       category: "Technical",
       icon: <Cpu size={20} />,
       skills: [
-        { name: "C/C++", level: 90 },
-        { name: "Circuit Design", level: 85 },
+        { name: "Java", level: 78 },
+        { name: "Frontend", level: 85 },
         { name: "Linux", level: 80 },
-        { name: "OpenCV", level: 75 },
+        { name: "React Js", level: 75 },
         { name: "Raspberry Pi", level: 85 }
       ]
     },

@@ -91,8 +91,9 @@ const Projects: React.FC = () => {
       ],
       icon: <Shield className="w-6 h-6 text-indigo-500" />,
       githubUrl: "https://github.com/yourusername/phishing-detection"
-    }
+    },
   ];
+  
 
   return (
     <section id="projects" className="py-16 bg-secondary/30">
